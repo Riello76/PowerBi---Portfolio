@@ -48,3 +48,6 @@ The project includes the following dashboards and charts:
 - **Dataset Filename:** `Starter_Sales_Analysis.xlsx`
 - **Format:** Excel (.xlsx)
 - **Contents:** Sales, profit, and quantity data for 2018, organized by month, region, group, and category.
+
+## Screenshot
+<img width="1350" height="752" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/fb8a800d-508a-4db1-9c4b-6e7764c53ac8" />
