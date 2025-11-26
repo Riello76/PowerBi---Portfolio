@@ -53,7 +53,7 @@ The project includes the following dashboards and charts:
 
 ## 🖼 Screenshot
 
-<img width="1518" height="812" alt="image" src="https://github.com/user-attachments/assets/684854ea-00cc-464e-9e5f-f38fc2c8949c" />
+<img width="1518" height="809" alt="image" src="https://github.com/user-attachments/assets/19c703cf-e32c-4d9e-8f88-099ffdf5ccee" />
 
 ---
 
@@ -67,5 +67,6 @@ The project includes the following dashboards and charts:
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
 
