@@ -42,15 +42,6 @@ The project includes the following dashboards and charts:
 
 ---
 
-## 🚀 How to Use
-
-1. Open the **Excel dataset** in Power BI Desktop  
-2. Explore or recreate the dashboards using the provided data  
-3. Use interactive filters to analyze **profit and sales by time, country, product, and segment**  
-4. Ideal for **financial analysis, executive reporting, and data visualization practice**  
-
----
-
 ## 🖼 Screenshot
 
 <img width="1518" height="809" alt="image" src="https://github.com/user-attachments/assets/19c703cf-e32c-4d9e-8f88-099ffdf5ccee" />
@@ -67,6 +58,7 @@ The project includes the following dashboards and charts:
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
 
 
