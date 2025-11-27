@@ -51,14 +51,6 @@ The project includes the following dashboards and charts:
 
 ---
 
-## 🚀 How to Use
-
-1. Open the **Excel dataset** in Power BI Desktop  
-2. Load the data and connect it to the provided dashboards  
-3. Explore visuals to analyze sales and profit trends across categories and regions  
-
----
-
 ## 💬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspare-tocci/)  
@@ -69,4 +61,5 @@ The project includes the following dashboards and charts:
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
